@@ -1,9 +1,7 @@
-# Hi there 👋, I'm Muhammad Sani
+# I'm Muhammad Sani
 
 🎓 MSc Biotechnology | 3MTT Fellow  
 📊 Aspiring Data Analyst | Turning health & biology data into insights  
-
----
 
 ## 🔧 Skills & Tools
 
@@ -15,8 +13,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-
----
 
 ## 📂 Projects Portfolio
 
@@ -33,15 +29,9 @@
 | **Project 09:** AI Mini Project | Predictive modeling | [Repo Link]() |
 | **Project 10:** Capstone Project | Comprehensive dataset analysis | [Repo Link]() |
 
-> ⚡ Replace `[Repo Link]()` with your GitHub project URLs once uploaded.
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](AddYourLinkedInLink)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmailHere)
 
----
-
-⭐ I’m focused on building skills, sharing knowledge, and delivering **data-driven insights** in health & life sciences.
+ I’m focused on building skills, sharing knowledge, and delivering **data-driven insights** in health & life sciences.
